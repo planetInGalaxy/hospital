@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hospital.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hospital/frame/ChufangFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hospital/frame/EmpFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hospital/frame/MainFunction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hospital/frame/MedicineFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hospital/frame/PatientFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hospital/login/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hospital/util/JdbcUtil.java" charset="GBK" />
+  </component>
+</project>

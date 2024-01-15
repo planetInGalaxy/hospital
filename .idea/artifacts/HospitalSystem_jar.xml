@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HospitalSystem:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/HospitalSystem_jar</output-path>
+    <root id="archive" name="HospitalSystem.jar">
+      <element id="module-output" name="HospitalSystem" />
+      <element id="extracted-dir" path="D:/Jars/mysql-connector-java-8.0.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
